@@ -1,1 +1,1 @@
-# INTERNSAVY_TASK_ONE
+The project is about an weather prediction using API.I design this using css.The main part in this project is to give the correct API to fetch details about whether.The icons are downloaded from Google.The icons will change based on wether condition so I have used if-else statement for icons.The humidity and weather speed is also predicted has the cloumns of flex .
